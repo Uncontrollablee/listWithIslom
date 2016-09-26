@@ -8,6 +8,6 @@
 <li>Как только вы сделали работу (или её часть), отправьте её в свою копию репозитория на GitHub:<br><code>git push origin feature </code>#Загружает изменения в текущей ветви в origin в ветвь feature</li>
 <li>Коммитим: <br><code>git add .</code><br><code>git commit -m "Your commit"</code></li>
 <li>Отправляем в GitHub: <br><code>git push</code></li>
-
+<li><code> git pull original master</code></li>
 
 </ol>
